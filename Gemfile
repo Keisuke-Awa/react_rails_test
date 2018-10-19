@@ -60,4 +60,6 @@ group :development do
 
   gem 'spring-commands-rspec'
 
+  gem 'listen'
+
 end
